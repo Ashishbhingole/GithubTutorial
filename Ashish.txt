@@ -182,6 +182,8 @@ and can see more naturally how to take a problem and
 5374 write a program that solves that problem.  And once you get 
 to that point, programming becomes a very pleasant and creative process.  
 
+Adding some content
+
 We start with the vocabulary and structure of Python programs.  Be patient
 as the simple examples remind you of when you started reading for the first
 time. 
