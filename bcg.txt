@@ -1,0 +1,22 @@
+Let me start with the intro or overview of the project
+the problem statement that we had selected is Quiz Creation and Evaluation
+it is as like as KBC sort of game
+Here we have made use of GUI , i.e jFrames and JDBC and Random function as well
+so let me breif about this
+By using jFrames we have made this quiz game more interactive and impressive as well
+WE had also made a use of JDBC for the purpose of storing a question bank,updating and retriving data
+There are 25 q stored in a database
+By making a use of random function we are just selecting 5 Questions to be displyed to the end user
+
+Now let me explain the flow of this quiz game
+Login Interface
+Each time single question gets on to the screen
+Recently I mentioned its alike to KBC COZ after each question there is a increase in points for
+upcoming question
+For ex if first q is for 10000
+and if the option selected by the user is found to be true there is addition of that no of points
+and if it is found to be wrong then dialouge box get popped saying thats wrong answer
+and after completion of 5 questions when user clicks on the end button
+then total score appears in dialogue box
+and after that when user clicks on the end button quiz ends 
+so this is how the flow of the game that we have generated 
